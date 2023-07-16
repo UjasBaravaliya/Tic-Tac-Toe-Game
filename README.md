@@ -1,1 +1,2 @@
-# Tic-Tac-Toe-Game
+# WDProject
+Tic Tac Toe project
